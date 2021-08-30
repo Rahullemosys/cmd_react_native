@@ -12,4 +12,5 @@ https://console.agora.io/invite?sign=4687d965095110251b681829d6929b35%3Adb066fc2
 react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
 
 
-
+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
+this key git hub
