@@ -1,0 +1,15 @@
+2021-08-10 15:42:15.625 24009-24034/? I/ReactNativeJS: 'deviceID setup profile', 'eb9473a05295d80a'
+
+
+2021-08-10 15:42:15.612 24009-24034/? I/ReactNativeJS: 'device id', 'eb9473a05295d80a'
+2021-08-10 15:50:00.261 24502-24549/com.zodiac.apps I/ReactNativeJS: 'device id', '5c3c07730fa24f8f'
+2021-08-10 15:50:01.335 24502-24549/com.zodiac.apps I/ReactNativeJS: 'res', { status: 202, message: 'Device Id Successfully', success: true }
+
+
+
+https://console.agora.io/invite?sign=4687d965095110251b681829d6929b35%3Adb066fc24a03bd7b291fa67827e8a64ebcdf88eb2af806fd489988c1072c8896
+
+react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
+
+
+
